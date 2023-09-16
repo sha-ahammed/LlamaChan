@@ -1,0 +1,4 @@
+transformers
+auto-gptq
+py-cord
+python-dotenv

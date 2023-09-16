@@ -1,0 +1,5 @@
+venv
+.env
+main.ipynb
+Response.md
+__pycache__
